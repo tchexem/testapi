@@ -1,1 +1,6 @@
-this is test page
+{
+  "domains": [
+    "https://www.google.com"
+  ],
+  "cache_duration": 60
+}
